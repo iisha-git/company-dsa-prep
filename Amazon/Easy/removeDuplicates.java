@@ -1,5 +1,22 @@
 package Easy;
 
+/*
+
+LeetCode 26
+Company: Amazon
+Difficulty: Easy
+
+Pattern:
+- Two Pointers
+
+Time: O(n)
+Space: O(1)
+
+Key Idea:
+Maintain the index of the last unique element.
+
+*/
+
 class removeDuplicates {
     public int removeDuplicates(int[] nums) {
         int i = 0;
