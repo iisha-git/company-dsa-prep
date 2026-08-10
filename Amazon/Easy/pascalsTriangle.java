@@ -23,6 +23,7 @@ public class pascalsTriangle {
 }
 
 /*
+https://leetcode.com/problems/pascals-triangle/description/
 LeetCode 118 - Pascal's Triangle
 Company: Amazon
 Difficulty: Easy

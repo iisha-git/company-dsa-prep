@@ -2,6 +2,7 @@ package Easy;
 
 
 /*
+https://leetcode.com/problems/merge-sorted-array/?utm_source=chatgpt.com
 LeetCode 88 - Merge Sorted Array
 Company: Amazon
 Difficulty: Easy

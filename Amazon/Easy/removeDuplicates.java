@@ -1,7 +1,7 @@
 package Easy;
 
 /*
-
+https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
 LeetCode 26
 Company: Amazon
 Difficulty: Easy
