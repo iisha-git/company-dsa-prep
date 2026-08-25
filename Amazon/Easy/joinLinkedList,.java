@@ -2,7 +2,7 @@
  * LeetCode 160 - Intersection of Two Linked Lists
  *
  * Pattern: Two Pointers
- *
+ *   link : https://leetcode.com/problems/intersection-of-two-linked-lists/description
  * - p1 starts at headA, p2 starts at headB.
  * - When a pointer reaches null, switch it to the other head.
  * - Both pointers then travel A + B distance.
